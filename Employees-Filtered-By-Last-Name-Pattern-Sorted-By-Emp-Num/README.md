@@ -1,1 +1,78 @@
-<!DOCTYPE html><html><head><meta charSet="utf-8"/><link rel="apple-touch-icon" sizes="180x180" href="https://cdn.oaistatic.com/_next/static/media/apple-touch-icon.59f2e898.png"/><link rel="icon" type="image/png" sizes="32x32" href="https://cdn.oaistatic.com/_next/static/media/favicon-32x32.be48395e.png"/><link rel="icon" type="image/png" sizes="16x16" href="https://cdn.oaistatic.com/_next/static/media/favicon-16x16.9b8dbb69.png"/><link rel="preconnect" href="https://cdn.oaistatic.com"/><title>ChatGPT</title><meta name="title" content="ChatGPT: Get instant answers, find inspiration, learn something new"/><meta name="description" content="ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place."/><meta name="keywords" content="ai chat,ai,chap gpt,chat gbt,chat gpt 3,chat gpt login,chat gpt website,chat gpt,chat gtp,chat openai,chat,chatai,chatbot gpt,chatg,chatgpt login,chatgpt,gpt chat,open ai,openai chat,openai chatgpt,openai"/><meta property="og:description" content="A conversational AI system that listens, learns, and challenges"/><meta name="robots" content="index, follow"/><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><meta property="og:title" content="ChatGPT"/><meta property="og:image" content="https://cdn.oaistatic.com/_next/static/media/chatgpt-share-og.49cbbffe.png"/><meta property="og:url" content="https://chat.openai.com"/><meta name="apple-itunes-app" content="app-id=6448311069"/><meta name="next-head-count" content="17"/><link rel="preload" href="https://cdn.oaistatic.com/_next/static/media/soehne-buch.13189857.woff2" as="font" crossorigin=""/><link rel="preload" href="https://cdn.oaistatic.com/_next/static/media/soehne-halbfett.977f1845.woff2" as="font" crossorigin=""/><link rel="preload" href="https://cdn.oaistatic.com/_next/static/media/soehne-mono-buch.de677af1.woff2" as="font" crossorigin=""/><link rel="preload" href="https://cdn.oaistatic.com/_next/static/media/soehne-mono-halbfett.b082e8e2.woff2" as="font" crossorigin=""/><link data-next-font="" rel="preconnect" href="/" crossorigin="anonymous"/><link rel="preload" href="https://cdn.oaistatic.com/_next/static/css/dafd04b74869940d.css" as="style" crossorigin="anonymous"/><link rel="stylesheet" href="https://cdn.oaistatic.com/_next/static/css/dafd04b74869940d.css" crossorigin="anonymous" data-n-g=""/><noscript data-n-css=""></noscript><script defer="" crossorigin="anonymous" nomodule="" src="https://cdn.oaistatic.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script><script src="https://cdn.oaistatic.com/_next/static/chunks/webpack-6dbbb942552b84af.js" defer="" crossorigin="anonymous"></script><script src="https://cdn.oaistatic.com/_next/static/chunks/framework-31ffa51d236da229.js" defer="" crossorigin="anonymous"></script><script src="https://cdn.oaistatic.com/_next/static/chunks/main-6da2aad3a6c32aae.js" defer="" crossorigin="anonymous"></script><script src="https://cdn.oaistatic.com/_next/static/chunks/pages/_app-a4c060ecbc81f5d4.js" defer="" crossorigin="anonymous"></script><script src="https://cdn.oaistatic.com/_next/static/chunks/pages/g/%5BgizmoId%5D/c/%5BconvId%5D-252d29e38cf1ddb8.js" defer="" crossorigin="anonymous"></script><script src="https://cdn.oaistatic.com/_next/static/pPcfPwRZfdrv0dCws676L/_buildManifest.js" defer="" crossorigin="anonymous"></script><script src="https://cdn.oaistatic.com/_next/static/pPcfPwRZfdrv0dCws676L/_ssgManifest.js" defer="" crossorigin="anonymous"></script></head><body class="antialiased"><div id="__next"><script>!function(){try{var d=document.documentElement,c=d.classList;c.remove('light','dark');var e=localStorage.getItem('theme');if('system'===e||(!e&&true)){var t='(prefers-color-scheme: dark)',m=window.matchMedia(t);if(m.media!==t||m.matches){d.style.colorScheme = 'dark';c.add('dark')}else{d.style.colorScheme = 'light';c.add('light')}}else if(e){c.add(e|| '')}if(e==='light'||e==='dark')d.style.colorScheme=e}catch(e){}}()</script><div class="absolute left-0 right-0 top-0 z-[2]"></div></div><script id="__NEXT_DATA__" type="application/json" crossorigin="anonymous">{"props":{"pageProps":{"user":{"id":"user-xBcF5ZYgdudCBOTcbG9bLKoq","name":"Rick Abraham","email":"rickabraham68@gmail.com","image":"https://lh3.googleusercontent.com/a/ACg8ocISXA7TXErE199qmLq4J8S9NXYE6lOqyeVrBjxd2RpBYQ=s96-c","picture":"https://lh3.googleusercontent.com/a/ACg8ocISXA7TXErE199qmLq4J8S9NXYE6lOqyeVrBjxd2RpBYQ=s96-c","idp":"google-oauth2","iat":1706743569,"mfa":false,"groups":[],"intercom_hash":"95f619d9be27e97c48eef4dc69d537b7379ece5f5cb77c9e259666c28ea10b06"},"serviceStatus":{},"serviceAnnouncement":{"public":{},"paid":{}},"serverPrimedAllowBrowserStorageValue":true,"isStorageComplianceEnabled":false,"ageVerificationDeadline":null,"ageVerificationType":"none","showCookieConsentBanner":false,"cfConnectingIp":"2600:1700:e900:1030:d850:2619:872e:f219"},"__N_SSP":true},"page":"/g/[gizmoId]/c/[convId]","query":{"gizmoId":"g-vKScv4VGT-data-dicer","convId":"LICENSE.md"},"buildId":"pPcfPwRZfdrv0dCws676L","assetPrefix":"https://cdn.oaistatic.com","isFallback":false,"gssp":true,"scriptLoader":[]}</script></body></html>
+
+# Employees Filtered By Last Name Pattern Sorted By Employee Number
+
+This simple Python script provides a function `getAcronym` that generates an acronym from a given phrase or name. It is designed to extract the first letter of each word, prioritizing uppercase letters, to form the acronym.
+
+## Features
+
+- **Simple Usage**: Easy to integrate and use in any SQL project.
+- **Uppercase Emphasis**: Prioritizes uppercase letters following spaces to form acronyms, ensuring relevance and readability.
+- **First Letter Inclusion**: Automatically includes the first letter of the input phrase in the acronym.
+
+## Getting Started
+
+To use this script, you can clone the repository or simply copy the `getAcronym` function into your Python project.
+
+### Prerequisites
+
+You need to have Python installed on your system. This script is compatible with Python 3.x.
+
+### Installation
+
+Clone this repository to your local machine using:
+
+```bash
+git clone https://github.com/RIck-Abraham/Python-Projects.git
+```
+
+Navigate to the `Acronyms` directory:
+
+```bash
+cd Python-Projects/Acronyms
+```
+
+### Usage
+
+To use the `getAcronym` function in your project, simply include it in your Python file. You can then generate an acronym by passing a phrase or name as an argument to the `getAcronym` function:
+
+```python
+phrase = "Your Input Phrase Here"
+acronym = getAcronym(phrase)
+print(f"The acronym is: {acronym}")
+```
+
+### Example
+
+To test the function, you can run the `Acronyms.py` script and enter a phrase when prompted:
+
+```bash
+python Acronyms.py
+```
+
+Input:
+
+```
+Enter a phrase: Central Intelligence Agency
+```
+
+Output:
+
+```
+The acronym is: CIA
+```
+
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+Project Link: [https://github.com/RIck-Abraham/Python-Projects/blob/main/Acronyms/Acronyms.py](https://github.com/RIck-Abraham/Python-Projects/blob/main/Acronyms/Acronyms.py)
