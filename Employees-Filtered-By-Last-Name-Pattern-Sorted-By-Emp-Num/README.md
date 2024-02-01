@@ -12,7 +12,7 @@ This project hosts an SQL query designed to fetch detailed information from an e
 ## Installation
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/YourGitHubUsername/EmployeeDatabaseQuery.git
+   git clone https://github.com/Rick-Abraham/SQL-Projects/Employees-Filtered-By-Last-Name-Pattern-Sorted-By-Emp-Num.git
 
 
 ### Usage
