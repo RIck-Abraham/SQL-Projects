@@ -28,8 +28,10 @@ To execute the SQL query within your database environment, follow these steps:
 SOURCE /path/to/employee_query.sql;
 ```
 4. Review the query results for employee data.
-Example output:
----markdown
+
+
+### Example output:
+---bash
 EMP_NUM | EMP_LNAME | EMP_FNAME | EMP_INITIAL
 -------------------------------------------------
 12345   | Smith     | John      | A
