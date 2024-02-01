@@ -13,17 +13,28 @@ This project hosts an SQL query designed to fetch detailed information from an e
 1. Clone this repository to your local machine using:
    ```bash
    git clone https://github.com/Rick-Abraham/SQL-Projects/Employees-Filtered-By-Last-Name-Pattern-Sorted-By-Emp-Num.git
-
+2. Ensure you have a SQL database management system installed and properly configured on your system.
+3. Import the employee_query.sql file into your database management system.
 
 ### Usage
 
-To use the `getAcronym` function in your project, simply include it in your Python file. You can then generate an acronym by passing a phrase or name as an argument to the `getAcronym` function:
+To execute the SQL query within your database environment, follow these steps:
 
-```python
-phrase = "Your Input Phrase Here"
-acronym = getAcronym(phrase)
-print(f"The acronym is: {acronym}")
+1. Open your database management tool's command line interface or graphical user interface.
+2. Navigate to the directory where you cloned the repository.
+3. Execute the SQL script::
+
+```sql
+SOURCE /path/to/employee_query.sql;
 ```
+4. Review the query results for employee data.
+Example output:
+---markdown
+EMP_NUM | EMP_LNAME | EMP_FNAME | EMP_INITIAL
+-------------------------------------------------
+12345   | Smith     | John      | A
+---
+
 
 ### Example
 
