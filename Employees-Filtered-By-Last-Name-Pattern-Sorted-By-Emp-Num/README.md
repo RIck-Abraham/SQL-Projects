@@ -25,13 +25,13 @@ To execute the SQL query within your database environment, follow these steps:
 3. Execute the SQL script::
 
 ```sql
-SOURCE /path/to/employee_query.sql;
+SOURCE /path/to/Employees-Filtered-By-Last-Name-Pattern-Sorted-By-Emp-Num/EmployeesFilteredByLastNamePatternSortedByEmpNum.sql;
 ```
 4. Review the query results for employee data.
 
 
 ### Example output:
----bash
+---
 EMP_NUM | EMP_LNAME | EMP_FNAME | EMP_INITIAL
 -------------------------------------------------
 12345   | Smith     | John      | A
