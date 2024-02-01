@@ -1,35 +1,19 @@
 
 # Employees Filtered By Last Name Pattern Sorted By Employee Number
 
-This simple Python script provides a function `getAcronym` that generates an acronym from a given phrase or name. It is designed to extract the first letter of each word, prioritizing uppercase letters, to form the acronym.
+## Overview
+This project hosts an SQL query designed to fetch detailed information from an employee database, focusing on employees whose last names start with 'Smith'. The goal is to provide an efficient and straightforward method for retrieving employee data, which can be particularly useful for HR departments and administrative tasks.
 
 ## Features
+- **Targeted Query**: Retrieves employee details such as Employee Number, Last Name, First Name, and Middle Initial for those with last names beginning with 'Smith'.
+- **Sorted Results**: Orders the output by Employee Number to facilitate easier analysis and processing.
+- **Broad Compatibility**: Compatible with various SQL database management systems, including MySQL, PostgreSQL, Oracle, and SQL Server.
 
-- **Simple Usage**: Easy to integrate and use in any SQL project.
-- **Uppercase Emphasis**: Prioritizes uppercase letters following spaces to form acronyms, ensuring relevance and readability.
-- **First Letter Inclusion**: Automatically includes the first letter of the input phrase in the acronym.
+## Installation
+1. Clone this repository to your local machine using:
+   ```bash
+   git clone https://github.com/YourGitHubUsername/EmployeeDatabaseQuery.git
 
-## Getting Started
-
-To use this script, you can clone the repository or simply copy the `getAcronym` function into your Python project.
-
-### Prerequisites
-
-You need to have Python installed on your system. This script is compatible with Python 3.x.
-
-### Installation
-
-Clone this repository to your local machine using:
-
-```bash
-git clone https://github.com/RIck-Abraham/Python-Projects.git
-```
-
-Navigate to the `Acronyms` directory:
-
-```bash
-cd Python-Projects/Acronyms
-```
 
 ### Usage
 
