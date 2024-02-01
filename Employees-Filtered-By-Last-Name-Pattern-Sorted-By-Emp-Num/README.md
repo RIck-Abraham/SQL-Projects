@@ -24,38 +24,17 @@ To execute the SQL query within your database environment, follow these steps:
 2. Navigate to the directory where you cloned the repository.
 3. Execute the SQL script::
 
-```sql
+```bash
 SOURCE /path/to/Employees-Filtered-By-Last-Name-Pattern-Sorted-By-Emp-Num/EmployeesFilteredByLastNamePatternSortedByEmpNum.sql;
 ```
 4. Review the query results for employee data.
 
+### Example Output
 
-### Example output:
----
+```bash
 EMP_NUM | EMP_LNAME | EMP_FNAME | EMP_INITIAL
 -------------------------------------------------
 12345   | Smith     | John      | A
----
-
-
-### Example
-
-To test the function, you can run the `Acronyms.py` script and enter a phrase when prompted:
-
-```bash
-python Acronyms.py
-```
-
-Input:
-
-```
-Enter a phrase: Central Intelligence Agency
-```
-
-Output:
-
-```
-The acronym is: CIA
 ```
 
 ## Contributing
@@ -71,5 +50,3 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-Project Link: [https://github.com/RIck-Abraham/Python-Projects/blob/main/Acronyms/Acronyms.py](https://github.com/RIck-Abraham/Python-Projects/blob/main/Acronyms/Acronyms.py)
